@@ -38,3 +38,43 @@ Thank you for reading.
 | [Defensive Operations, Forensics, & Compliance](https://github.com/karim-abdul-rehan/Awesome-Cybersecurity-Handbook/tree/main/Defensive%20Operations%2C%20Forensics%2C%20%26%20Compliance) |
 | [AI, Data, & Privacy Security](https://github.com/karim-abdul-rehan/Awesome-Cybersecurity-Handbook/tree/main/AI%2C%20Data%2C%20%26%20Privacy%20Security) |
 | [Advanced Topics](https://github.com/karim-abdul-rehan/Awesome-Cybersecurity-Handbook/tree/main/Advanced%20Topics) |
+
+## **Repository Structure**
+```
+Awesome-Cybersecurity-Handbook
+├── AI, Data, & Privacy Security
+├── Advanced Topics
+│   ├── Cryptography
+│   ├── DevSecOps & CI \ CD Security
+│   ├── Physical Security
+│   └── Scripting & Automation
+├── Application & System Security
+│   ├── Injection Attacks
+│   ├── System & Endpoint Hacking
+│   └── The OWASP Top 10
+├── Defensive Operations, Forensics, & Compliance
+│   ├── Governance, Risk, and Compliance (GRC)
+│   ├── Incident Response & Digital Forensics
+│   └── SOC & Threat Intelligence
+├── Ethical Hacking
+│   ├── Clearing Tracks
+│   ├── Gaining Access
+│   ├── Maintaining Access
+│   ├── Reconnaissance & Footprinting
+│   ├── Reporting & Remediation
+│   ├── Scanning & Enumeration
+│   └── Vulnerability Assessment
+├── Fundamentals & Core Infrastructure
+│   ├── Networking Architecture
+│   └── Operating Systems Security
+├── Human, Cloud, & Emerging Technologies
+│   ├── Cloud Security Architecture
+│   ├── IoT & Mobile Security
+│   └── Social Engineering
+└── Infrastructure & Network Hacking
+    ├── Denial of Service (DoS & DDoS)
+    ├── Evading Security Controls
+    ├── Man in the Middle (MiTM) Attacks
+    ├── Sniffing & Traffic Analysis
+    └── Wireless Network Security
+```
