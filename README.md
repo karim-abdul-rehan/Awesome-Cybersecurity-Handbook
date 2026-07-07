@@ -30,7 +30,6 @@ Thank you for reading.
 ## Table of Contents
 |     |
 | --- |
-| [01 Information Gathering](handbooks/01_information_gathering.md) |
 | [Fundamentals & Core Infrastructure](https://github.com/karim-abdul-rehan/Awesome-Cybersecurity-Handbook/tree/main/Fundamentals%20%26%20Core%20Infrastructure) |
 | [Ethical Hacking](https://github.com/karim-abdul-rehan/Awesome-Cybersecurity-Handbook/tree/main/Ethical%20Hacking) |
 | [Infrastructure & Network Hacking](https://github.com/karim-abdul-rehan/Awesome-Cybersecurity-Handbook/tree/main/Infrastructure%20%26%20Network%20Hacking) |
