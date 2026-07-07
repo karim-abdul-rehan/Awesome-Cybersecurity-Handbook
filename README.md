@@ -10,8 +10,8 @@ A curated, topic-wise collection of the finest cybersecurity books, blog posts, 
 
 # Awesome Cybersecurity Handbooks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-![GitHub stars](https://img.shields.io/github/stars/0xsyr0/Awesome-Cybersecurity-Handbooks?logoColor=yellow) ![GitHub forks](https://img.shields.io/github/forks/0xsyr0/Awesome-Cybersecurity-Handbooks?logoColor=purple) ![GitHub watchers](https://img.shields.io/github/watchers/0xsyr0/Awesome-Cybersecurity-Handbooks?logoColor=green)</br>
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/0xsyr0/Awesome-Cybersecurity-Handbooks) ![GitHub contributors](https://img.shields.io/github/contributors/0xsyr0/Awesome-Cybersecurity-Handbooks)
+![GitHub stars](https://img.shields.io/github/stars/karim-abdul-rehan/Awesome-Cybersecurity-Handbook?logoColor=yellow) ![GitHub forks](https://img.shields.io/github/forks/karim-abdul-rehan/Awesome-Cybersecurity-Handbook?logoColor=purple) ![GitHub watchers](https://img.shields.io/github/watchers/karim-abdul-rehan/Awesome-Cybersecurity-Handbook?logoColor=green)</br>
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/karim-abdul-rehan/Awesome-Cybersecurity-Handbook) ![GitHub contributors](https://img.shields.io/github/contributors/karim-abdul-rehan/Awesome-Cybersecurity-Handbook?)
 
 A huge chunk of my personal notes since I started playing CTFs and working as a red teamer. These are living documents and I updated or add to them relatively often.
 
@@ -21,7 +21,7 @@ A huge chunk of my personal notes since I started playing CTFs and working as a 
 If you like the project, give it a :star: or share it on various platforms. My goal is to create and to gather resources for people to help them on their career.
 
 > [!NOTE]
-> As always, it is pretty hard to point out every source for different tools or payloads. If I used your payload anywhere in my notes and you wanted to be mentioned, feel free to reach out to me on [X](https://twitter.com/syr0_) — or preferably [Bluesky](https://bsky.app/profile/0xsyr0.bsky.social) — and I will add you asap.
+> As always, it is pretty hard to point out every source for different tools or payloads.
 
 Thank you for reading.
 
