@@ -36,3 +36,5 @@ Thank you for reading.
 | [Application & System Security](https://github.com/karim-abdul-rehan/Awesome-Cybersecurity-Handbook/tree/main/Application%20%26%20System%20Security) |
 | [Human, Cloud, & Emerging Technologies](https://github.com/karim-abdul-rehan/Awesome-Cybersecurity-Handbook/tree/main/Human%2C%20Cloud%2C%20%26%20Emerging%20Technologies) |
 | [Defensive Operations, Forensics, & Compliance](https://github.com/karim-abdul-rehan/Awesome-Cybersecurity-Handbook/tree/main/Defensive%20Operations%2C%20Forensics%2C%20%26%20Compliance) |
+| [AI, Data, & Privacy Security](https://github.com/karim-abdul-rehan/Awesome-Cybersecurity-Handbook/tree/main/AI%2C%20Data%2C%20%26%20Privacy%20Security) |
+| [Advanced Topics](https://github.com/karim-abdul-rehan/Awesome-Cybersecurity-Handbook/tree/main/Advanced%20Topics) |
