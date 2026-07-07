@@ -1,6 +1,5 @@
-# Awesome-Cybersecurity-Handbook
-A curated, topic-wise handbook of essential cybersecurity books, articles, guides, and resources for defenders, attackers, and everyone in between.
-# Awesome Cybersecurity Handbook 🛡️
+# Awesome Cybersecurity Handbook
+*by Karim Abdul Rehan*
 
 A curated, topic-wise collection of the finest cybersecurity books, blog posts, and learning resources. 
 
