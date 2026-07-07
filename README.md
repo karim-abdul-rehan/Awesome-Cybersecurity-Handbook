@@ -1,13 +1,9 @@
-# Awesome Cybersecurity Handbook
-*by Karim Abdul Rehan*
-
-A curated, topic-wise collection of the finest cybersecurity books, blog posts, and learning resources. 
+# Awesome Cybersecurity Handbooks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+*- Karim Abdul Rehan*
 
 <p align="center">
   <img width="450" height="580" src="/Awesome-Cybersecurity-Handbook.png">
 </p>
-
-# Awesome Cybersecurity Handbooks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ![GitHub stars](https://img.shields.io/github/stars/karim-abdul-rehan/Awesome-Cybersecurity-Handbook?logoColor=yellow) ![GitHub forks](https://img.shields.io/github/forks/karim-abdul-rehan/Awesome-Cybersecurity-Handbook?logoColor=purple) ![GitHub watchers](https://img.shields.io/github/watchers/karim-abdul-rehan/Awesome-Cybersecurity-Handbook?logoColor=green)</br>
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/karim-abdul-rehan/Awesome-Cybersecurity-Handbook) ![GitHub contributors](https://img.shields.io/github/contributors/karim-abdul-rehan/Awesome-Cybersecurity-Handbook?)
