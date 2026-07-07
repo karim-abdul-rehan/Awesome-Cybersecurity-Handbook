@@ -5,7 +5,7 @@ A curated, topic-wise handbook of essential cybersecurity books, articles, guide
 A curated, topic-wise collection of the finest cybersecurity books, blog posts, and learning resources. 
 
 <p align="center">
-  <img width="450" height="580" src="images/awesome-cybersecurity-handbooks.png">
+  <img width="450" height="580" src="/Awesome-Cybersecurity-Handbook.png">
 </p>
 
 # Awesome Cybersecurity Handbooks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
