@@ -76,4 +76,5 @@ Security device that monitors and controls network traffic.
 * **Reliability and Availability**: Improve system reliability using backup paths and fault-tolerant mechanisms.
 * **Scalability and Growth**: Support easy expansion by adding new devices and services as demand increases.
 * **Security and Control**: Protect data and network resources using authentication, access control, and monitoring.
+
 [![Back to Parent](https://img.shields.io/badge/⬅️_Back-blue?style=for-the-badge)](.)
