@@ -11,10 +11,14 @@ Computer networks can be classified based on architecture into two primary types
 * Client/Server Architecture
 * Hybrid Networks
 * types_of_network_architecture
+
 <img width="768" height="384" alt="17834902443212516215371615023559" src="https://github.com/user-attachments/assets/9309a107-8279-469d-a7cc-58599c098ed7" />
+
 ### 1. Peer-to-Peer Architecture
 In a P2P network, computers (peers) are directly connected, usually via the Internet, to share files and resources without a central server. Each computer acts as both client and server, with equal roles and responsibilities. Tasks are distributed across all devices, making P2P suitable for small setups (up to about 10 computers). Since there’s no strict client-server division, peers can both send and receive data directly. P2P networks are commonly used in business, education, and military applications.
+
 <img width="482" height="293" alt="17834903379501033692734179323942" src="https://github.com/user-attachments/assets/2704d41c-ad18-4b6b-a3ee-f993e97c750b" />
+
 **Advantages of Peer-to-Peer Architecture :**
 
 * P2P network is less costly and cheaper. It is affordable.
@@ -27,6 +31,7 @@ In a P2P network, computers (peers) are directly connected, usually via the Inte
 * As the network expands in size, it may become inefficient.
 ### 2. Client/Server Architecture
 CSN (Client/Server Network) is type of computer network in which one of centralized and powerful computers (commonly called as server) is hub to which many of personal computers that are less powerful or workstations (commonly known as clients) are connected. It is type of system where clients are connected to server to just share or use resources. These servers are generally considered as heart of system. This type of network is more stable and scalable as compared to P2P network. In this architecture, system is generally decomposed into client and server processor or processes.
+
 <img width="550" height="311" alt="17834904822583540452118379929753" src="https://github.com/user-attachments/assets/4cf0889e-0433-4c1e-a5ea-1dde2bfcc557" />
 
 **Advantages of Client/Server Architecture :**
@@ -41,6 +46,7 @@ CSN (Client/Server Network) is type of computer network in which one of centrali
 * Managing servers requires skilled personnel.
 ### 3. Hybrid Networks
 Hybrid networks combine elements of both client-server and peer-to-peer architectures. They leverage the centralized control of client-server networks and the decentralized resource sharing of P2P networks. An example is a torrent network, where a central tracker (server) coordinates peers, but file sharing occurs directly between peers. Hybrid networks are used in applications requiring both centralized management and distributed resource sharing.
+
 <img width="768" height="361" alt="17834906245688707107455190106271" src="https://github.com/user-attachments/assets/2bfaf967-3ee7-4d5d-90c0-62c58ddc5fd0" />
 
 **Advantages of Hybrid Networks:**
